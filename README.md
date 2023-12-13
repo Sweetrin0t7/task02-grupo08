@@ -22,24 +22,26 @@ Este repositório contém informações sobre diversos filmes, séries, animes. 
 ### Filmes
 <img src="https://play-lh.googleusercontent.com/4GQWhoYLNvwf_Mzuc5K5MfRH3jnmrLujVZgGLIfoF6L4cDt5LZRoq5Hb2AfIrz0mugCL" alt="Jujutsu Kaisen" width="100" height="100" style="border-radius: 50%;">
 <br>
+
 [Feito na América](https://www.adorocinema.com/filmes/filme-227043/)
-<br>
+
 <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3a/Interstellar_Filme.png/250px-Interstellar_Filme.png" alt="Jujutsu Kaisen" width="100" height="100" style="border-radius: 50%;">
 <br>
-[Interstellar](https://pt.wikipedia.org/wiki/Interstellar)
 
+[Interestelar](https://pt.wikipedia.org/wiki/Interstellar)
 
+<br>
 
 ### Séries
 
 <img src="https://m.media-amazon.com/images/M/MV5BNDM5M2U4MjgtNGFhNy00Yzg0LWE3Y2YtNzdjYTI2NTFjYzZmXkEyXkFqcGdeQXVyNjE4MDMwMjk@._V1_.jpg" alt="House, M.D" width="100" height="100" style="border-radius: 50%;">
 <br>
 
-[Supernatural](https://pt.wikipedia.org/wiki/Supernatural_%287.ª_temporada%29)
+[House, M.D](https://pt.wikipedia.org/wiki/Supernatural_%287.ª_temporada%29)
 
 <img src="https://upload.wikimedia.org/wikipedia/pt/4/43/Supernatural-Temporada7_%28Blu-ray%29.jpg" alt="Supernatural" width="100" height="100" style="border-radius: 50%;">
 
-[House, M.D](https://pt.wikipedia.org/wiki/House,_M.D)
+[Supernatural](https://pt.wikipedia.org/wiki/House,_M.D)
 <br>
 
 ## Equipe
@@ -86,4 +88,3 @@ main/
 
 ### Normas de Commit
 - Seguiremos a convenção [Padrões de Commits (Commit Patterns)](https://dev.to/renatoadorno/padroes-de-commits-commit-patterns-41co).
-
