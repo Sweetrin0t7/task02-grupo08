@@ -22,10 +22,13 @@ Este repositório contém informações sobre diversos filmes, séries, animes. 
 ### Filmes
 <img src="https://play-lh.googleusercontent.com/4GQWhoYLNvwf_Mzuc5K5MfRH3jnmrLujVZgGLIfoF6L4cDt5LZRoq5Hb2AfIrz0mugCL" alt="Jujutsu Kaisen" width="100" height="100" style="border-radius: 50%;">
 <br>
-
 [Feito na América](https://www.adorocinema.com/filmes/filme-227043/)
-
 <br>
+<img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3a/Interstellar_Filme.png/250px-Interstellar_Filme.png" alt="Jujutsu Kaisen" width="100" height="100" style="border-radius: 50%;">
+<br>
+[Interstellar](https://pt.wikipedia.org/wiki/Interstellar)
+
+
 
 ### Séries
 
@@ -54,13 +57,32 @@ Este repositório contém informações sobre diversos filmes, séries, animes. 
 
 Os tópicos de documentação escolhidos para este repositório incluem:
 - Branches
+```
+main
+default
+develop
+feat-descricao-serie
+feat-index-img
+feat-index-links
+feat-style-conteudo
+```
 - Estrutura dos arquivos
+```shell
+main/
+├── index.html
+├── README.md
+```
 - Normas de commit (feat e commit em inglês ou português)
 
 ## Ramificações
-- **Master/Main:** Usada para as versões estáveis e prontas para uso.
-- **Desenvolvimento:** Ramificação para integração contínua.
-- **Nome da Branch X:** (se houver outras ramificações específicas)
+```shell
+main/
+├── develop
+│   ├── feat-descricao-serie - Descrição das séries
+│   ├── feat-index-img - Adição de imagens
+│   ├── feat-index-links - Adição de links que direcionam ao IMDB
+│   ├── feat-style-conteudo - Formatação do conteúdo
+```
 
 ### Normas de Commit
 - Seguiremos a convenção [Padrões de Commits (Commit Patterns)](https://dev.to/renatoadorno/padroes-de-commits-commit-patterns-41co).
