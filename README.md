@@ -7,7 +7,12 @@ Este repositório contém informações sobre diversos filmes, séries, animes. 
 ## Conteúdo
 
 ### Animes
-<img src="https://static.wikia.nocookie.net/dublagem/images/5/5e/JujutsuK_Poster1.png/revision/latest?cb=20210220124602&path-prefix=pt-br" alt="Jujutsu Kaisen" width="100" height="100" style="border-radius: 50%;">   [Jujutsu Kaisen](https://www.crunchyroll.com/pt-br/series/GRDV0019R/jujutsu-kaisen)
+
+<div align="center">
+  <img src="https://static.wikia.nocookie.net/dublagem/images/5/5e/JujutsuK_Poster1.png/revision/latest?cb=20210220124602&path-prefix=pt-br" alt="Jujutsu Kaisen" width="100" height="100" style="border-radius: 50%;">   
+  
+  [Jujutsu Kaisen](https://www.crunchyroll.com/pt-br/series/GRDV0019R/jujutsu-kaisen)
+</div>
 
 <img src="https://static.wikia.nocookie.net/dublagem/images/5/5e/JujutsuK_Poster1.png/revision/latest?cb=20210220124602&path-prefix=pt-br" alt="Jujutsu Kaisen" width="100" height="100" style="border-radius: 50%;">
 <br>
