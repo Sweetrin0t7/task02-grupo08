@@ -83,7 +83,7 @@ main/
 │   ├── feat-descricao-serie - Descrição das séries
 │   ├── feat-index-img - Adição de imagens
 │   ├── feat-index-links - Adição de links que direcionam ao IMDB
-│   ├── feat-style-conteudo - Formatação do conteúdo
+│   ├── feat-style-conteudo - Formatação de conteúdo
 ```
 
 ### Normas de Commit
